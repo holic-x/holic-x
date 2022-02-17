@@ -3,7 +3,7 @@ name: snake auto
 on: push
 jobs:
   build:
-    runs-on: main
+    runs-on: ubuntu-latest
     steps:
       - uses: EndBug/add-and-commit@v8
         with:
