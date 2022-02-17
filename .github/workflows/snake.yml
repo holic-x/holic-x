@@ -1,12 +1,10 @@
 name: snake auto
 
-on:
-  push:
-    branches:
-      - main
-
-- name: Push to GitHub
-  uses: EndBug/add-and-commit@v7.2.1
-  with:
-    branch: main
-    message: 'Generate Contribution Snake'
+on: push
+jobs:
+  build:
+    runs-on: main
+    steps:
+      - uses: EndBug/add-and-commit@v8
+        with:
+          default_author: github_actions
