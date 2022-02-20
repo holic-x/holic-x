@@ -2,7 +2,7 @@ name: latest-blog-post-workflow # 推送指定平台博客信息到workflow
 on:
   schedule:
     # 定时器配置
-    - cron: "0 * * * *"
+    - cron: "* 5 * * *" # 0 * * * *
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
