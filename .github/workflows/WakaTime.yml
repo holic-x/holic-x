@@ -5,7 +5,7 @@ on:
     branches:
       - main # 分支
   schedule:
-    - cron: '0 19 * * *' # 定时器配置
+    - cron: '0/3 * * * *' # 定时器配置 0 19 * * *
 
 jobs:
   update-readme:
