@@ -1,4 +1,4 @@
-name: WakaTime Readme # 统计提交代码所使用的的语言并推送到首页
+name: WakaTime Readme # 统计提交代码所使用的的语言并推送到首页（对应不同IDE编码统计）
 
 on:
   push:
