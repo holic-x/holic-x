@@ -1,0 +1,16 @@
+name: listen-auto-push-latest-blog-post # 接收指定类型的仓库事件并触发最新文章更新
+on:
+  repository_dispatch:
+    # 类型可以自定义，需与发送事件匹配
+    types: [xxType]
+  workflow_dispatch:
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "5" # 获取链接数量
+          feed_list: "https://blog.holic-x.com/wv-blog/atom.xml" # 博客订阅地址(RSS格式/Atom格式),以逗号间隔不同的地址
