@@ -5,7 +5,7 @@ on:
     branches:
       - main # 分支
   schedule:
-    - cron: '0/3 * * * *' # 定时器配置 0 19 * * *
+    - cron: '0 19 * * *' # 定时器配置 0 19 * * *
 
 jobs:
   update-readme:
@@ -14,3 +14,5 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # waka个人秘钥
+          SHOW_TITLE: true # 统计一周数据
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿ # 图形风格
