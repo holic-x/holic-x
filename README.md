@@ -41,11 +41,11 @@
 # 💻Recent Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [asciinema-linux终端回放记录工具](https://blog.holic-x.com/wv-blog/post/8f2c237d.html)
-- [CDN加速](https://blog.holic-x.com/wv-blog/post/b9906fe8.html)
 - [Office开发者计划-永久白嫖Office365](https://blog.holic-x.com/wv-blog/post/d33a9143.html)
-- [网站多线部署](https://blog.holic-x.com/wv-blog/post/50b43c4a.html)
 - [hexo-butterfly-首页改造](https://blog.holic-x.com/wv-blog/post/c9f9cd5d.html)
+- [DooringX-快速高效搭建可视化拖拽平台](https://blog.holic-x.com/wv-blog/post/15c7497d.html)
+- [aliyunDrive攻略-阿里云盘本地挂载](https://blog.holic-x.com/wv-blog/post/ada04767.html)
+- [hexo-butterfly-友链&amp;朋友圈构建](https://blog.holic-x.com/wv-blog/post/8ce7d46.html)
 <!-- BLOG-POST-LIST:END -->
 
 
