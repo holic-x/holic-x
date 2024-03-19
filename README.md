@@ -4,7 +4,7 @@
 - 💬 Sot the lot of you.I do what I like~
 - 📫 holic-x@foxmail.com
 
-- 🚀 [一人の境](https://blog.holic-x.com/wv-blog)
+- 🚀 [一人の境](https://blog.holic-x.com/)、[日常学习笔记](https://noob.holic-x.com/)
 
 
 
@@ -59,13 +59,9 @@
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
 
-<div align="center">
-    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=holic-x&theme=github"/>
-</div>
 
-<div align="center">
-    <img height="300px" src="https://metrics.lecoq.io/holic-x?template=classic&config.timezone=Asia%2FShanghai"/>
-</div>
+
+
 
 # 🌱Social
 
