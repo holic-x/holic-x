@@ -2,7 +2,7 @@ name: timing-auto-push-latest-blog-post # 定时推送指定平台博客信息�
 on:
   schedule:
     # 定时器配置 0 * * * * 每小时推送一次
-    - cron: "0 * * * *" # 0/5 * * * * 每5分钟推送一次
+    - cron: "0 0/12 * * *" # 0/5 * * * * 每5分钟推送一次
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
