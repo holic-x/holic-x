@@ -2,7 +2,7 @@ name: timing-auto-push-latest-blog-post # 定时推送指定平台博客信息�
 on:
   schedule:
     # 定时器配置 0 * * * * 每小时推送一次
-    - cron: "0 * * * *" # 0/5 * * * * 每5分钟推送一次
+    - cron: "0/5 * * * *" # 0/5 * * * * 每5分钟推送一次
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
@@ -12,4 +12,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "5" # 获取链接数量
-          feed_list: "https://blog.holic-x.com/wv-blog/atom.xml" # 博客订阅地址(RSS格式/Atom格式),以逗号间隔不同的地址
+          feed_list: "https://noob.holic-x.com/atom.xml" # 博客订阅地址(RSS格式/Atom格式),以逗号间隔不同的地址
