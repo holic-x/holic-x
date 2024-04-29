@@ -8,14 +8,24 @@
 
 # 🎫 projects
 - 项目开发
-  - 智能百宝箱：[前端](https://github.com/holic-x/itc-platform-frontend)、[后端](https://github.com/holic-x/itc-platform)
-  - [基于Springboot-React构建的项目快速开发模板]([url](https://github.com/holic-x/springboot-react-init))
+  - 🛞智能百宝箱：[前端](https://github.com/holic-x/itc-platform-frontend)、[后端](https://github.com/holic-x/itc-platform)
+  - 🛸基于Springboot-React构建的项目快速开发模板：[springboot-react-init](https://github.com/holic-x/springboot-react-init)
   - 
 
 - 组件开发
-  - [轻量级RPC框架（基于Vert.x+Etcd）](https://github.com/holic-x/noob-rpc)
-  - [Hexo扩展插件](https://github.com/holic-x/hexo-butterfly-tags-extend)
-  - 
+  - [🪂轻量级RPC框架（基于Vert.x+Etcd）](https://github.com/holic-x/noob-rpc)
+  - [🎑Hexo扩展插件](https://github.com/holic-x/hexo-butterfly-tags-extend)
+    
+# 💻Recent Blog
+
+<!-- BLOG-POST-LIST:START -->
+- [asciinema-linux终端回放记录工具](https://blog.holic-x.com/wv-blog/post/8f2c237d.html)
+- [CDN加速](https://blog.holic-x.com/wv-blog/post/b9906fe8.html)
+- [Office开发者计划-永久白嫖Office365](https://blog.holic-x.com/wv-blog/post/d33a9143.html)
+- [网站多线部署](https://blog.holic-x.com/wv-blog/post/50b43c4a.html)
+- [hexo-butterfly-首页改造](https://blog.holic-x.com/wv-blog/post/c9f9cd5d.html)
+<!-- BLOG-POST-LIST:END -->
+
 
 # 🛠 Tech Stack
 
@@ -47,15 +57,6 @@
 <!-- START_SECTION:waka -->
 <!-- END_SECTION:waka -->
 
-# 💻Recent Blog
-
-<!-- BLOG-POST-LIST:START -->
-- [asciinema-linux终端回放记录工具](https://blog.holic-x.com/wv-blog/post/8f2c237d.html)
-- [CDN加速](https://blog.holic-x.com/wv-blog/post/b9906fe8.html)
-- [Office开发者计划-永久白嫖Office365](https://blog.holic-x.com/wv-blog/post/d33a9143.html)
-- [网站多线部署](https://blog.holic-x.com/wv-blog/post/50b43c4a.html)
-- [hexo-butterfly-首页改造](https://blog.holic-x.com/wv-blog/post/c9f9cd5d.html)
-<!-- BLOG-POST-LIST:END -->
 
 
 
