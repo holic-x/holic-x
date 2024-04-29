@@ -19,11 +19,11 @@
 # 💻Recent Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [asciinema-linux终端回放记录工具](https://blog.holic-x.com/wv-blog/post/8f2c237d.html)
-- [CDN加速](https://blog.holic-x.com/wv-blog/post/b9906fe8.html)
-- [Office开发者计划-永久白嫖Office365](https://blog.holic-x.com/wv-blog/post/d33a9143.html)
-- [网站多线部署](https://blog.holic-x.com/wv-blog/post/50b43c4a.html)
-- [hexo-butterfly-首页改造](https://blog.holic-x.com/wv-blog/post/c9f9cd5d.html)
+- [博客订阅&amp;推送](https://noob.holic-x.com/md/0.%E7%A2%8E%E7%89%87%E5%8C%96/30-%E7%BD%91%E7%AB%99%E8%BF%90%E7%BB%B4/3003-%E5%8D%9A%E5%AE%A2%E8%AE%A2%E9%98%85_%E6%8E%A8%E9%80%81.html)
+- [常见Git操作&amp;日常问题](https://noob.holic-x.com/md/0.%E7%A2%8E%E7%89%87%E5%8C%96/80-BUG%E9%9B%86%E6%95%A3%E5%9C%B0/%E5%B8%B8%E8%A7%81Git%E6%93%8D%E4%BD%9C_%E6%97%A5%E5%B8%B8%E9%97%AE%E9%A2%98.html)
+- [开发问题记录册](https://noob.holic-x.com/md/0.%E7%A2%8E%E7%89%87%E5%8C%96/80-BUG%E9%9B%86%E6%95%A3%E5%9C%B0/%E5%BC%80%E5%8F%91%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95%E5%86%8C.html)
+- [Maven的聚合和继承](https://noob.holic-x.com/md/4.PM/maven/3.Maven%E7%9A%84%E8%81%9A%E5%90%88%E5%92%8C%E7%BB%A7%E6%89%BF.html)
+- [Maven生命周期详解](https://noob.holic-x.com/md/4.PM/maven/2.Maven%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E8%AF%A6%E8%A7%A3.html)
 <!-- BLOG-POST-LIST:END -->
 
 
