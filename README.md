@@ -4,7 +4,7 @@
 - 💬 Sot the lot of you.I do what I like~
 - 📫 holic-x@foxmail.com
 - 🚀个人博客：😎Java全栈学习[Noob](https://noob.holic-x.com/)、🥚原始版 [一人の境](https://blog.holic-x.com/)
-- 🌏社交网站：[掘金](https://juejin.cn/user/2559318802054568))、[CSDN💬](https://blog.csdn.net/weixin_40376256)
+- 🌏社交网站：[掘金](https://juejin.cn/user/2559318802054568)、[CSDN💬](https://blog.csdn.net/weixin_40376256)
 
 # 🎫 projects
 - 项目开发
