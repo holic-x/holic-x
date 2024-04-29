@@ -3,10 +3,19 @@
 - 🤔 Carpe Diem
 - 💬 Sot the lot of you.I do what I like~
 - 📫 holic-x@foxmail.com
+- 🚀个人博客：😎Java全栈学习[Noob](https://noob.holic-x.com/)、🥚原始版 [一人の境](https://blog.holic-x.com/)
+- 🌏社交网站：[掘金](https://juejin.cn/user/2559318802054568))、[CSDN💬](https://blog.csdn.net/weixin_40376256)
 
-- 🚀 [一人の境](https://blog.holic-x.com/)、[日常学习笔记](https://noob.holic-x.com/)
+# 🎫 projects
+- 项目开发
+  - 智能百宝箱：[前端](https://github.com/holic-x/itc-platform-frontend)、[后端](https://github.com/holic-x/itc-platform)
+  - [基于Springboot-React构建的项目快速开发模板]([url](https://github.com/holic-x/springboot-react-init))
+  - 
 
-
+- 组件开发
+  - [轻量级RPC框架（基于Vert.x+Etcd）](https://github.com/holic-x/noob-rpc)
+  - [Hexo扩展插件](https://github.com/holic-x/hexo-butterfly-tags-extend)
+  - 
 
 # 🛠 Tech Stack
 
