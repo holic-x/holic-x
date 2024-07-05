@@ -11,5 +11,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: "5" # 获取链接数量
-          feed_list: "https://noob.holic-x.com/atom.xml" # 博客订阅地址(RSS格式/Atom格式),以逗号间隔不同的地址
+          max_post_count: "10" # 获取链接数量
+          feed_list: "http://blog.holic-x.com/atom.xml" # 博客订阅地址(RSS格式/Atom格式),以逗号间隔不同的地址
