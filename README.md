@@ -3,20 +3,29 @@
 - 🤔 Carpe Diem
 - 💬 Sot the lot of you.I do what I like~
 - 📫 holic-x@foxmail.com
-- 🚀个人博客：😎Java全栈学习[日常开发笔记](https://noob.holic-x.com/)、🥚博客原始版 [一人の境](https://blog.holic-x.com/)
-- 🌏社交网站：[掘金](https://juejin.cn/user/2559318802054568)、[CSDN💬](https://blog.csdn.net/weixin_40376256)
+- 🚀个人博客：😎Java全栈学习[知识体系](https://noob.holic-x.com/)、🥚博客原始版 [一人の境](https://blog.holic-x.com/)
+- 🌏社交网站：[掘金🏑](https://juejin.cn/user/2559318802054568)、[CSDN💬](https://blog.csdn.net/weixin_40376256)
 
 # 🎫 projects
 - 项目开发
-  - 🛞智能百宝箱：[前端](https://github.com/holic-x/itc-platform-frontend)、[后端](https://github.com/holic-x/itc-platform)
-  - 🛸基于Springboot-React构建的项目快速开发模板：[springboot-react-init](https://github.com/holic-x/springboot-react-init)
-  - 
-
-- 组件开发
+  - 🎈智能百宝箱：[前端](https://github.com/holic-x/itc-platform-frontend)、[后端](https://github.com/holic-x/itc-platform)
+    - [基于Vite构建的通知公告系统SDK](https://github.com/holic-x/itc-notification-sdk)
+    - [Da-API接口调用](https://github.com/holic-x/api-platform)
+    - [OJ模块（模拟沙箱）](https://github.com/holic-x/oj-platform)
+    - [智能BI交互](https://github.com/holic-x/bi-platform)
+    - [聚合搜索](https://github.com/holic-x/search-platform)
+  - 🛸基于Springboot-React构建的项目快速开发模板：[springboot-react-init](https://github.com/holic-x/springboot-react-init)（原后端模板基础版、进阶版）
+- 基础组件开发（框架篇）
+  - [✨异步调度框架](https://github.com/holic-x/asyncflow-platform)
+  - [🍚定时微服务框架](https://github.com/holic-x/xtimer-platform)
   - [🪂轻量级RPC框架（基于Vert.x+Etcd）](https://github.com/holic-x/noob-rpc)
   - [🎑基于Vite构建的自定义公告SDK组件](https://github.com/holic-x/itc-notification-sdk)
-  - [🎑Hexo扩展插件](https://github.com/holic-x/hexo-butterfly-tags-extend)
-    
+  - [🎃Hexo魔改之自定义Hexo扩展插件](https://github.com/holic-x/hexo-butterfly-tags-extend)
+- 技术栈扩展学习
+  - [🧨基于Springboot-ES构建博客检索系统](https://github.com/holic-x/springboot-es)
+  - [🧨基于Springboot+Vue+MongoDB的仿电商应用](https://github.com/holic-x/MongoDB-WEB-DEMO)
+  - [🧨垃圾分类APP（安卓）](https://github.com/holic-x/garbage-classify)
+  - [🧨taotao-mall（淘淘商城）](http://localhost:8080/md/6.project/specPro/03-taotao-mall/)
 # 💻Recent Blog
 
 <!-- BLOG-POST-LIST:START -->
