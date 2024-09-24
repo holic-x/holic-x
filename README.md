@@ -8,6 +8,9 @@
 
 # 🎫 projects
 - 项目开发
+  
+  - [✨博客魔改手把手教学](http://localhost:8080/md/6.project/repo/myBlog/)
+  
   - 🎈智能百宝箱：[前端](https://github.com/holic-x/itc-platform-frontend)、[后端](https://github.com/holic-x/itc-platform)
     - [基于Vite构建的通知公告系统SDK](https://github.com/holic-x/itc-notification-sdk)
     - [Da-API接口调用](https://github.com/holic-x/api-platform)
@@ -15,13 +18,17 @@
     - [智能BI交互](https://github.com/holic-x/bi-platform)
     - [聚合搜索](https://github.com/holic-x/search-platform)
   - 🛸基于Springboot-React构建的项目快速开发模板：[springboot-react-init](https://github.com/holic-x/springboot-react-init)（原后端模板基础版、进阶版）
+  
 - 基础组件开发（框架篇）
   - [✨异步调度框架](https://github.com/holic-x/asyncflow-platform)
   - [🍚定时微服务框架](https://github.com/holic-x/xtimer-platform)
   - [🪂轻量级RPC框架（基于Vert.x+Etcd）](https://github.com/holic-x/noob-rpc)
   - [🎑基于Vite构建的自定义公告SDK组件](https://github.com/holic-x/itc-notification-sdk)
   - [🎃Hexo魔改之自定义Hexo扩展插件](https://github.com/holic-x/hexo-butterfly-tags-extend)
+  
 - 技术栈扩展学习
+
+  - [🧨DDD-luckydraw（营销场景抽奖活动）](http://localhost:8080/md/6.project/specPro/04-luckydraw-ddd/)
   - [🧨基于Springboot-ES构建博客检索系统](https://github.com/holic-x/springboot-es)
   - [🧨基于Springboot+Vue+MongoDB的仿电商应用](https://github.com/holic-x/MongoDB-WEB-DEMO)
   - [🧨垃圾分类APP（安卓）](https://github.com/holic-x/garbage-classify)
