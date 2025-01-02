@@ -1,31 +1,29 @@
 # 🚀 about
 
-- 🤔 Carpe Diem
 - 💬 Sot the lot of you.I do what I like~
 - 📫 holic-x@foxmail.com
-- 🚀个人博客：😎Java全栈学习[知识体系](https://noob.holic-x.com/)、🥚博客原始版 [一人の境](https://blog.holic-x.com/)
+- 🚀个人博客：⚽Java全栈学习[知识体系](http://blog.holic-x.com/)、🥚博客原始版 [一人の境](http://myblog.holic-x.com/)
 - 🌏社交网站：[掘金🏑](https://juejin.cn/user/2559318802054568)、[CSDN💬](https://blog.csdn.net/weixin_40376256)
 
 # 🎫 projects
+- 技能补充
+  - [🚀算法学习跟踪](https://github.com/holic-x/holic-leetcode-java)（[算法笔记同步](http://blog.holic-x.com/md/1.fullstack/JAVA/4.%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/)）
 - 项目开发
-  
   - [✨博客魔改手把手教学](http://localhost:8080/md/6.project/repo/myBlog/)
-  
+
   - 🎈智能百宝箱：[前端](https://github.com/holic-x/itc-platform-frontend)、[后端](https://github.com/holic-x/itc-platform)
-    - [基于Vite构建的通知公告系统SDK](https://github.com/holic-x/itc-notification-sdk)
-    - [Da-API接口调用](https://github.com/holic-x/api-platform)
-    - [OJ模块（模拟沙箱）](https://github.com/holic-x/oj-platform)
-    - [智能BI交互](https://github.com/holic-x/bi-platform)
-    - [聚合搜索](https://github.com/holic-x/search-platform)
-  - 🛸基于Springboot-React构建的项目快速开发模板：[springboot-react-init](https://github.com/holic-x/springboot-react-init)（原后端模板基础版、进阶版）
-  
+    - [基于 Vite 构建的通知公告系统SDK](https://github.com/holic-x/itc-notification-sdk)
+    - [Da-API 接口调用平台](https://github.com/holic-x/api-platform)
+    - [OJ 模块（模拟沙箱）](https://github.com/holic-x/oj-platform)
+    - [智能 BI 交互](https://github.com/holic-x/bi-platform)
+    - [一体化聚合搜索平台](https://github.com/holic-x/search-platform)
+  - 🛸基于`Springboot-React`构建的项目快速开发模板：[springboot-react-init](https://github.com/holic-x/springboot-react-init)（原后端模板基础版、进阶版）
 - 基础组件开发（框架篇）
   - [✨异步调度框架](https://github.com/holic-x/asyncflow-platform)
   - [🍚定时微服务框架](https://github.com/holic-x/xtimer-platform)
   - [🪂轻量级RPC框架（基于Vert.x+Etcd）](https://github.com/holic-x/noob-rpc)
-  - [🎑基于Vite构建的自定义公告SDK组件](https://github.com/holic-x/itc-notification-sdk)
+  - [🎑基于 Vite 构建的自定义公告SDK组件](https://github.com/holic-x/itc-notification-sdk)
   - [🎃Hexo魔改之自定义Hexo扩展插件](https://github.com/holic-x/hexo-butterfly-tags-extend)
-  
 - 技术栈扩展学习
 
   - [🧨DDD-luckydraw（营销场景抽奖活动）](http://localhost:8080/md/6.project/specPro/04-luckydraw-ddd/)
