@@ -34,11 +34,16 @@
 # 💻Recent Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [博客订阅&amp;推送](https://noob.holic-x.com/md/0.%E7%A2%8E%E7%89%87%E5%8C%96/30-%E7%BD%91%E7%AB%99%E8%BF%90%E7%BB%B4/3003-%E5%8D%9A%E5%AE%A2%E8%AE%A2%E9%98%85_%E6%8E%A8%E9%80%81.html)
-- [常见Git操作&amp;日常问题](https://noob.holic-x.com/md/0.%E7%A2%8E%E7%89%87%E5%8C%96/80-BUG%E9%9B%86%E6%95%A3%E5%9C%B0/%E5%B8%B8%E8%A7%81Git%E6%93%8D%E4%BD%9C_%E6%97%A5%E5%B8%B8%E9%97%AE%E9%A2%98.html)
-- [开发问题记录册](https://noob.holic-x.com/md/0.%E7%A2%8E%E7%89%87%E5%8C%96/80-BUG%E9%9B%86%E6%95%A3%E5%9C%B0/%E5%BC%80%E5%8F%91%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95%E5%86%8C.html)
-- [Maven的聚合和继承](https://noob.holic-x.com/md/4.PM/maven/3.Maven%E7%9A%84%E8%81%9A%E5%90%88%E5%92%8C%E7%BB%A7%E6%89%BF.html)
-- [Maven生命周期详解](https://noob.holic-x.com/md/4.PM/maven/2.Maven%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E8%AF%A6%E8%A7%A3.html)
+- [算法-技巧篇-链表](http://blog.holic-x.com/md/1.fullstack/JAVA/4.%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/base/2.%E7%AE%97%E6%B3%95-%E6%8A%80%E5%B7%A7%E7%AF%87-%E9%93%BE%E8%A1%A8.html)
+- [消息队列-⑤高性能篇](http://blog.holic-x.com/md/rebirth/3.%E6%A1%86%E6%9E%B6%E7%AF%87/5.%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97/5.%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97-%E9%AB%98%E6%80%A7%E8%83%BD%E7%AF%87.html)
+- [消息队列-⑦扩展篇](http://blog.holic-x.com/md/rebirth/3.%E6%A1%86%E6%9E%B6%E7%AF%87/5.%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97/7.%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97-%E6%89%A9%E5%B1%95%E7%AF%87.html)
+- [Windows-Kafka安装配置](http://blog.holic-x.com/md/rebirth/3.%E6%A1%86%E6%9E%B6%E7%AF%87/5.%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97/Windows-Kafka%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE.html)
+- [消息队列-③架构篇](http://blog.holic-x.com/md/rebirth/3.%E6%A1%86%E6%9E%B6%E7%AF%87/5.%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97/3.%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97-%E6%9E%B6%E6%9E%84%E7%AF%87.html)
+- [消息队列-④高可用篇](http://blog.holic-x.com/md/rebirth/3.%E6%A1%86%E6%9E%B6%E7%AF%87/5.%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97/4.%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97-%E9%AB%98%E5%8F%AF%E7%94%A8%E7%AF%87.html)
+- [MAC-Docker安装配置](http://blog.holic-x.com/md/0.%E7%A2%8E%E7%89%87%E5%8C%96/MAC/MAC-Docker%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE.html)
+- [MAC-MQ安装配置](http://blog.holic-x.com/md/0.%E7%A2%8E%E7%89%87%E5%8C%96/MAC/MAC-MQ%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE.html)
+- [消息队列-②实践篇](http://blog.holic-x.com/md/rebirth/3.%E6%A1%86%E6%9E%B6%E7%AF%87/5.%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97/2.%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97-%E5%AE%9E%E8%B7%B5%E7%AF%87.html)
+- [Springboot-实现定时任务](http://blog.holic-x.com/md/0.%E7%A2%8E%E7%89%87%E5%8C%96/00-%E6%97%A5%E5%B8%B8%E5%BC%80%E5%8F%91/Springboot-%E5%AE%9E%E7%8E%B0%E5%AE%9A%E6%97%B6%E4%BB%BB%E5%8A%A1.html)
 <!-- BLOG-POST-LIST:END -->
 
 
